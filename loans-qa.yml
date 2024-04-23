@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to MaxxBank loans related local QA APIs"
   contactDetails:
-    name: "Mahendra Chawla - QA"
+    name: "Maxx - QA"
     email: "itssmaxx_QA@gmail.com"
   onCallSupport:
     -(91) 99989-79695
