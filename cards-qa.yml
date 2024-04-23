@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to MaxxBank cards related local QA APIs"
   contactDetails:
-    name: "Mahendra Chawla - QA"
+    name: "Maxx - QA"
     email: "{cipher}3ac815d8e974f9944c5fabc7b57771937efe355083c2cd1647154b2320c62c4679b7bc66d1e012f9ebe2beb9f68c3458"
   onCallSupport:
     -(91) 99989-79695
