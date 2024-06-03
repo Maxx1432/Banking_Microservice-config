@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MaxxBank accounts related local PROD APIs"
+  message: "Welcome to MaxxBank accounts related docker PROD APIs"
   contactDetails:
     name: "Maxx - PROD"
     email: "itssmaxx_PROD@gmail.com"
